@@ -1,0 +1,115 @@
+---
+object: card
+id: 15ebbb4e-9e1d-49f5-b05b-ae59df0deb17
+oracle_id: 916db499-7f0a-45f7-8abe-94818a53e494
+multiverse_ids:
+- 193738
+mtgo_id: 32957
+mtgo_foil_id: 32958
+tcgplayer_id: 32549
+cardmarket_id: 21049
+name: Armored Ascension
+lang: en
+released_at: '2009-07-17'
+uri: https://api.scryfall.com/cards/15ebbb4e-9e1d-49f5-b05b-ae59df0deb17
+scryfall_uri: https://scryfall.com/card/m10/3/armored-ascension?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/5/15ebbb4e-9e1d-49f5-b05b-ae59df0deb17.jpg?1561971718
+  normal: https://cards.scryfall.io/normal/front/1/5/15ebbb4e-9e1d-49f5-b05b-ae59df0deb17.jpg?1561971718
+  large: https://cards.scryfall.io/large/front/1/5/15ebbb4e-9e1d-49f5-b05b-ae59df0deb17.jpg?1561971718
+  png: https://cards.scryfall.io/png/front/1/5/15ebbb4e-9e1d-49f5-b05b-ae59df0deb17.png?1561971718
+  art_crop: https://cards.scryfall.io/art_crop/front/1/5/15ebbb4e-9e1d-49f5-b05b-ae59df0deb17.jpg?1561971718
+  border_crop: https://cards.scryfall.io/border_crop/front/1/5/15ebbb4e-9e1d-49f5-b05b-ae59df0deb17.jpg?1561971718
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature
+  Enchanted creature gets +1/+1 for each Plains you control and has flying.
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Enchant
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 0dba38a9-6b9d-4768-9831-4e03e8970a0b
+set: m10
+set_name: Magic 2010
+set_type: core
+set_uri: https://api.scryfall.com/sets/0dba38a9-6b9d-4768-9831-4e03e8970a0b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am10&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m10?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/15ebbb4e-9e1d-49f5-b05b-ae59df0deb17/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A916db499-7f0a-45f7-8abe-94818a53e494&unique=prints
+collector_number: '3'
+digital: false
+rarity: uncommon
+flavor_text: '"The meadow sprang up beneath me, and I perceived a path from our people''s
+  defeat to our highest glory."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Ejsing
+artist_ids:
+- a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d
+illustration_id: e5c7276b-a23b-40e5-8bdc-d5c6b395a7e5
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5080
+penny_rank: 5388
+prices:
+  usd: '0.25'
+  usd_foil: '2.72'
+  usd_etched: 
+  eur: '0.21'
+  eur_foil: '0.55'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193738
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Armored+Ascension&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Armored+Ascension&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Armored+Ascension
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/32549?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Armored+Ascension&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/32957?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
